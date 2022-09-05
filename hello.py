@@ -1,1 +1,2 @@
-print('hello world!')
+u = 'User'
+print('hello world!' + u)
